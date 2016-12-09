@@ -10,6 +10,11 @@ Markdown
 
 This is a test for markdown usability in **GitHub** Pages
 
+Check out this code:
+```csharp
+Console.Writeline("Hello World!");
+```
+
 <div class="blue-font">
 Hi, I'm blue
 </div>
