@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         kramdown
+markdown: kramdown
 
 kramdown:
   auto_ids: true
@@ -7,7 +7,7 @@ kramdown:
   syntax_highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Gems
 gems:
@@ -30,9 +30,5 @@ expo:             http://expo.getbootstrap.com
 themes:           http://themes.getbootstrap.com
 
 # Social
-title: Bootstrap
-description: The most popular HTML, CSS, and JS framework in the world.
-twitter: getbootstrap
-authors: Mark Otto, Jacob Thornton, and Bootstrap contributors
-social_logo_path: /img/bootstrap-social-logo.png
-social_image_path: /img/bootstrap-social.png
+title: My Blog
+description: This is my blog.
