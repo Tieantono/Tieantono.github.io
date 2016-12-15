@@ -15,7 +15,7 @@ gems:
 # Setup
 name:           My Blog
 description:    Official blog for Tieantono.
-url:            http://Tieantono.github.io
+url:            https://tieantono.github.io
 
 paginate:       5
 encoding:       UTF-8
