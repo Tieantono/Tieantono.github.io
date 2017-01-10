@@ -6,7 +6,7 @@ color: green;
 }
 </style>
 
-Markdown
+Markdown Test
 
 This is a test for markdown usability in **GitHub** Pages
 
