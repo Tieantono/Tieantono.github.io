@@ -1,4 +1,4 @@
-
+<link href="style.css" rel="stylesheet" type="text/css">
 
 <style>
 .green-font{
@@ -6,7 +6,7 @@ color: green;
 }
 </style>
 
-Markdown Test
+Markdown
 
 This is a test for markdown usability in **GitHub** Pages
 
