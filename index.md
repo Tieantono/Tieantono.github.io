@@ -11,7 +11,7 @@ Markdown
 This is a test for markdown usability in **GitHub** Pages
 
 Check out this code:
-```csharp
+```javascript
 Console.Writeline("Hello World!");
 ```
 
