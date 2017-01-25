@@ -5,6 +5,7 @@ kramdown:
 gems:
    - jekyll-coffeescript
    - jekyll-paginate
+theme: minima
 lsi: false
 safe: true
 source: index.md
