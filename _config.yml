@@ -1,31 +1,7 @@
-# Dependencies
-markdown: kramdown
-highlighter: rouge
-
-
-# Permalinks
-permalink: pretty
-
-# Gems
-gems:
-  - jekyll-paginate
-
-# Setup
-name:           My Blog
-description:    Official blog for Tieantono.
-url:            https://tieantono.github.io
-
-paginate:       5
-encoding:       UTF-8
-future:         true
-
-exclude:        ["README.md"]
-
-# Links
-blog:             http://blog.getbootstrap.com
-expo:             http://expo.getbootstrap.com
-themes:           http://themes.getbootstrap.com
-
-# Social
-title: My Blog
-description: This is my blog.
+ github: [metadata]
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ gems:
+   - jekyll-coffeescript
+   - jekyll-paginate
