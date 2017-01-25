@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="{{ site.github.url }}/css/main.css">
+<link rel="stylesheet" href="{{ site.github.url }}/css/syntax.css" type="text/css" />
+
 Markdown
 
 This is a test for markdown usability in **GitHub** Pages
